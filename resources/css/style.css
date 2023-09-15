@@ -2,6 +2,7 @@ html {
     padding: 0;
     margin: 0;
     background-color: black;
+    text-align: center;
 }
 
 header h1 {
@@ -19,4 +20,9 @@ header h5 {
 
 header h5 a {
     color: aquamarine;
+}
+
+.videos {
+    display: flex;
+    justify-content: center;
 }
