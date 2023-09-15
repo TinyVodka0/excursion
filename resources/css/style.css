@@ -26,3 +26,16 @@ header h5 a {
     display: flex;
     justify-content: center;
 }
+
+.main2 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.main h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
