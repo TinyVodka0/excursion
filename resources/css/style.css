@@ -18,7 +18,7 @@ header h5 {
     font-size: 16px;
 }
 
-header h5 a {
+.dllink h5 a {
     color: aquamarine;
 }
 
@@ -27,7 +27,8 @@ header h5 a {
     justify-content: center;
 }
 
-.main2 h1 {
+.main2 h1,
+.cover h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 42px;
     font-weight: 300;
@@ -38,4 +39,11 @@ header h5 a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+}
+
+footer {
+    width: 100%;
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
